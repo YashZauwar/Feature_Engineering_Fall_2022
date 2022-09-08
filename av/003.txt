@@ -1,0 +1,58 @@
+Drone delivery company Wing recently celebrated 100,000 deliveries with an unusual burst of media fanfare. Australia is at the forefront of Wing’s plans, with the company’s two biggest trial sites running in Canberra and Logan in Queensland.
+
+Wing tells a simple story of barista coffee and roast chooks dropped on your driveway at a moment’s notice. Short on Vegemite for the kids’ brekky? Hop on the app, order, and a drone will lower a new jar to your doorstep before the toast is cool. All quick, contactless, and COVID-safe.
+But the real story is much more complex. Drone delivery at scale will transform the skies, change expectations for speedy delivery, and hide the labour that makes it possible.
+
+Owned by Alphabet, the parent company of Google, Wing has huge resources. New drone regulations are already being written, and Wing is setting itself up to be the backbone of a new aerial infrastructure.
+Wing operates much like many app delivery platforms. After signing up, customers use the smartphone app to place their orders. Orders are then packed at local base stations and flown to their destinations by Wing’s drones. On arrival, the packages are lowered to customers by winch, automatically detaching from the drone before it returns to the base station.
+
+Unlike the hobby drones you might see above parks and beaches, Wing’s delivery drones can operate out of the operator’s line of sight. Flight is fully autonomous, with one pilot monitoring several flights at once and able to take over or land if necessary.
+How that will scale up in volume and frequency isn’t clear. So far, the trial sites in Canberra and Logan offer clear and uncomplicated airspace and a flat, regular urban environment.
+
+For customers, all this promises a swift, seamless and contactless experience.
+
+Deloitte’s economic modelling on the drone industry in Australia notes that drones enable further automation of work. But behind every promise of “autonomous” or “automated” technology are hidden human workers.
+One of Wing’s major promises is unbelievably fast delivery on demand. Wing boasts an average delivery time of roughly 10 minutes. Their quickest time recorded – from order placement to product in hand – is 2 minutes and 47 seconds.
+
+This is a remarkable acceleration in the pace and expectation of delivery. Ordinary mail might take days or weeks, but thanks to the “Amazon effect” private delivery services have already shifted expectations from next-day to same-day and now even one or two hours.
+While Wing’s drones are autonomous, the service still relies on human labour. Pilots monitor flight paths, packers parcel up the products, and maintenance staff take care of the hardware and software. All of these workers must perform to satisfy the 10 minute delivery time.
+
+Amazon warehouses and food delivery apps have shown us how such punishing timelines can be dangerous for worker safety and devastating for morale. For precariously employed or gig economy workers, missing targets can mean instant termination.
+And the repercussions of 10-minute delivery may spread beyond Wing. If consumer expectations change, rival delivery companies (who may not be using automated drones) will feel pressure to keep pace.
+
+Deloitte modelling from 2020 suggests drone delivery could cost less than half the current rate of an e-bike delivery. In the Canberra trial, some products at least are delivered for the same as in-store prices. How those delivery costs will be distributed between Wing, businesses, workers and customers once the pilot programs are over, however, is unclear — but if the likes of UberEats are anything to go by, it may well end up being businesses and especially delivery workers who carry most of the cost.
+
+Drone delivery may also have hidden environmental costs. Keeping cars and trucks off the road might cut energy consumption, but mining lithium for batteries and supplying energy for data centres may reduce or eliminate those gains.
+
+Getting sandwiches via drone could also mean more packaging and waste, as well as potential risks to birds and habitats from heavy aerial traffic.
+
+
+But a bigger question for the public is about the skies above our heads. Do we want to live under a cloud of drones?
+
+At present, most of the time people are free to enjoy the skies above their homes and communities. Kids can fly kites and enthusiasts can fly their own drones. Drone delivery risks privatising a new layer of that common space, and handing it over to Alphabet and others.
+To privatise a new part of the sky, Australia’s drone regulations will have to change. The current rules are highly restrictive, built from a patchwork of international, federal and state laws developed primarily for aeroplanes.
+
+Apart from hobbyists with constant line of sight, operating in limited times and places, each drone use requires explicit permission from the Civil Aviation Safety Authority.
+
+New commercial applications are pushing this system beyond breaking point. They often require operation beyond visual line of sight, near populated areas, in a broad range of conditions, and without constant pilot supervision.
+Bouyed by economic modelling from Deloitte suggesting the drone industry could be worth around $15 billion by 2040 (with e-commerce and deliveries making up about $600 million), the Australian government is pushing to modernise drone regulation. This means reappraising rules around environmental impacts, noise, safety, insurance, security and privacy.
+
+The resulting changes will benefit different companies and business models. For example, more flexible noise standards will benefit commercial applications like delivery. This means the big question is how different stakeholders are influencing the development of these new laws.
+Alongside new regulations, new digital infrastructures are being developed to manage increasingly congested and “automated” skyways.
+
+Wing is heavily involved, providing a flight planning and safety app for drone operators, a system for remote drone identification, and an “unmanned traffic management” service.
+
+Owning the broader traffic management system is clearly part of the long-term business strategy. As Google has shown with its Android operating system, building infrastructure (even if it’s open source) can create a real commercial advantage.
+Wing’s approach fits neatly with the Australian government’s desire for a market-based strategy to develop and implement its first unmanned traffic management system over the next 5 years. The trial programs in Canberra and Logan will help the company develop more comprehensive skyway traffic platforms that will govern airspace safety, communications standards, data management, and everything else needed to keep autonomous aerial commerce ticking over.
+
+Policymakers know commercial development of communication infrastructure creates competition risks. However, they may not have the tools and expertise to enforce equal and fair access to skyway infrastructure.
+
+And at present, the fundamental question of whether we want drone deliveries crowding our sky at all is completely off the table.
+
+As we have seen with the likes of Uber and Airbnb, reining in tech companies once they are already running is hard. With Australia modernizing its aviation laws, Wing is well positioned to protect its agenda and make itself essential to future evolutions of the law.
+
+The COVID-19 pandemic is also helping companies like Wing to accelerate their agenda, as they can promise less congestion, less consumer mobility, and less social contact.
+
+While city skies crowded with delivery drones might be far away, the groundwork is being laid right now. Communities, businesses and workers need to be a much bigger part of the process of deciding if they want that future.
+
+Getting sushi delivered by drone for lunch might seem like a neat idea, but the real price may have little to do with what gets charged to your card.

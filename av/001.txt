@@ -1,0 +1,50 @@
+Fully-autonomous vehicles (AV) are no longer a technology of the future. Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market.
+But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency, reduced emissions and improve mobility.
+We study the power of brands. Our research found companies can take advantage of their brand reputation to encourage consumers to adopt driverless cars.
+Customers generally welcome the idea of semi-assisted driving, where drivers remain in control throughout the whole journey.
+But the idea of a fully automated driving mode, where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers’ main concern.
+Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car.
+
+Even though consumers are sceptical towards AVs, throughout the world, including in the Asia Pacific region, automotive manufacturers continue to produce driverless cars.
+
+In the past five years, Singapore has approved more than 40 driverless vehicles. Meanwhile, the Japanese government envisions AVs running in selected regions by the end of 2022.
+
+China, predicted to be the biggest market for driverless cars in 15 years, has improved its infrastructure to connect more vehicles to the internet to facilitate AVs.
+Overall, the AV market in the Asia Pacific region is predicted to grow by 24.5% annually to reach a total market cap of about US$286 billion by 2030.
+
+These statistics suggest that even though consumers are reluctant to adopt AV technology, firms are confident they can change consumer perception in the long run.
+
+But how?
+Firms have long used the power of brands to overcome consumer resistance to adopting new technology.
+
+For example, Toyota relies on its brand reputation when it introduced its hybrid vehicles (Prius) in the early 2000s. This led to more than 15 million cars sold in a 20 year period.
+
+However, driverless technology involves risks beyond hybrid electric cars. As such, the role of brands in influencing consumer adoption decisions may be questioned.
+We ran three empirical studies in early 2021, involving a total of 1,157 US respondents.
+
+In the first study, with 294 respondents, we found those who identify strongly with a brand perceive lower risks associated with revolutionary technology (such as AVs) introduced by the brand. We ran our studies across five brands (Tesla, BMW, Mazda, Ford, Toyota) actively developing AV technology and found the results consistent across these brands.
+
+This is excellent news for car manufacturers. Brand loyalists are likely to trust their favourite brands, lowering their barriers to adopting AVs.
+
+However, certain brands command more authority than others due to their reputation as an innovation leader.
+
+In our second study, with 288 US respondents, we examined people’s perception of the Tesla brand versus a more “traditional” brand generally perceived as less innovative when it comes to AVs, such as Ford.
+
+Our study found the effects of brands in reducing perceived risks associated with AVs launched by Tesla is four times higher than those produced by Ford.
+
+In other words, brands matter. Tesla commands a more robust safety perception than other competitors, leading to stronger consumer intention to buy Tesla AVs.
+
+Leveraging brand reputation
+Given Tesla’s dominance in the AV market, what can other firms do to lower the barriers for consumers to adopt AV technology?
+
+We experimented with the idea that firms can use the power of the media to change people’s perception of their brand innovation in our final study. This experiment involved 575 respondents.
+
+There are several global rankings on innovation. These include the German Centre of Automotive Management, Drive Car Innovation of the Year award and Forbes’ most innovative companies list.
+
+Our final study designed an experiment whereby half of our respondents read Toyota was ranked second on the fictional Forbes Most Innovative Car Brands list. The other half of the respondents read Toyota was ranked sixth on the list.
+
+The experiment found respondents exposed to the latter scenario perceived higher risks associated with Toyota AVs and lower willingness to adopt such technology. But those exposed to the high-innovativeness (where Toyota was ranked second) perceive lower risks associated with Toyota AVs and demonstrated a stronger intention to buy the car if it was available.
+
+Overall, our studies find firms can indeed use their brand reputation to overcome consumer resistance to adopting AVs.
+
+Importantly, firms can use the power of external ranking and endorsement to address consumers’ doubts about AV technology. With the growth of the AV market, firms should start re-evaluating their brand strategy and see how they can leverage their brand image to encourage consumer adoption.

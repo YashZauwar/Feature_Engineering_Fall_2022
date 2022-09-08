@@ -1,0 +1,32 @@
+The Russian invasion of Ukraine has led to a serious humanitarian crisis. Of Ukraine’s 44 million people, almost one-quarter have been displaced. Around 3.7 million have escaped to neighbouring European countries, while around 6.5 million are estimated to be displaced inside Ukraine. Tragically, deaths and injuries continue to rise.
+Meanwhile, Ukrainians are faced with catastrophic shortages of essential supplies and services. They’re in need of safe shelter, food, water, access to information, psychosocial support and medicine, especially for chronic diseases (such as insulin to treat diabetes).
+
+To access essential supplies, Ukrainian people urgently need assistance from humanitarian and government organisations. But the volatile situation presents a significant risk for humanitarian aid workers to be on the ground. There is, however, one way we could help Ukrainians while minimising the number of additional lives put in jeopardy: by using drones and autonomous vehicles to deliver aid.
+
+
+Unmanned aerial vehicles, also known as drones, can be used for transporting supplies, surveillance, and search and rescue in both military and humanitarian setups. Many companies are already manufacturing and deploying them in humanitarian operations.
+
+For instance, American robotics company Matternet, in collaboration with Médecins Sans Frontières, has used these intelligent machines in Papua New Guinea to collect sputum samples from remote areas to identify people with tuberculosis.
+
+Canadian drone manufacturer Draganfly recently announced that it will send a shipment of its medical response and search and rescue drones to Ukraine, following an order from Revived Soldiers Ukraine, a non-profit organisation focused on providing aid to the country.
+
+These drones will be used to provide humanitarian aid in cities including Kyiv and Kharkiv. The initial shipment will include ten drones which can each transport up to 16 kilograms of medical supplies, including blood, medicines, vaccines, water and wound care kits.
+
+While this is encouraging to see, ten drones at this point is merely a gesture. To make a real impact we need to see more drones from more manufacturers.
+Autonomous vehicles are capable of completing complex tasks of driving, delivering and decision making. They can move from point A to point B, transporting people and products without the need for active input from humans.
+
+Yet while drones have come out of the pilot phase and we’ve already seen them used in humanitarian crises, autonomous vehicles are not quite there yet. That said, they have significant potential in this context.
+
+Autonomous vehicles have been employed in military situations, such as by the US military in Afghanistan. Their functions have ranged from removing landmines to payload deliveries. We’re now also seeing these vehicles used in industrial settings. Automated guided vehicles are most often used to move materials around manufacturing facilities or warehouses, where they follow markers or wires in the floor.
+
+What’s more, autonomous vehicles are being tested on real roads and highways. Auto manufacturers like Volvo, Mercedes and Tesla have all tested some level of autonomous technology in their futuristic vehicles with a view to revolutionising the logistics and transport sector.
+
+Humanitarian logistics is essentially a needs-driven, time-critical extension of commercial logistics. Seeing this technology in action in the commercial sector should pave the path for its adoption in the humanitarian context, and Ukraine may have a role to play here.
+
+Academics and small businesses have expressed support for the use of both autonomous vehicles and drones to deliver humanitarian assistance. As shown in the conceptual model below, the vehicles could bring medical supplies, food and other essentials to a designated safe point in bulk. Drones could then transport these goods further into the conflict zone to specific locations where people are hiding.
+In our research with representatives from international humanitarian organisations (conducted before the Ukraine war), they agreed that combining these two systems could mitigate logistical challenges and save lives. However, they were reluctant about using autonomous vehicles at this stage given the technology is still at the research and development phase. In the short term, they were more interested in using using drones in humanitarian operations (with some having already begun pilot projects).
+
+But autonomous vehicles have been tested in supervised situations, and testing them in the field is the next important step. Trialling these vehicles in the current situation in Ukraine could not only provide much needed aid to Ukrainians, but could help improve the autonomous systems for future deployments.
+Importantly, there are still certain caveats that limit using both of these technologies to their full potential. These include legal issues, regulatory challenges, cybersecurity threats, the need for community engagement, and ethical procurement and partnerships.
+
+The relevant regulatory bodies and the scientific community should take immediate steps towards addressing these challenges. Drawing up a universal code of conduct or standard operating procedure for deploying autonomous vehicles and drones in humanitarian settings would be a good start.
